@@ -7,7 +7,7 @@
 #define TXD2 17
 HardwareSerial neogps(1);
 
-const String DEVICE_ID = "1"; // Insira o ID do seu dispositivo
+const String DEVICE_ID = "10"; // Insira o ID do seu dispositivo
 
 const char *ssid = "Matheus Galaxy S10";      // Insira o nome da sua rede WiFi
 const char *password = "Matheus@10_Galbiati123"; // Insira a senha da sua rede WiFi
